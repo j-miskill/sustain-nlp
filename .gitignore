@@ -160,3 +160,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+dax_esg_media_dataset/esg_documents_for_dax_companies.csv
+dax_esg_media_dataset/sdg_descriptions_with_targetsText.csv

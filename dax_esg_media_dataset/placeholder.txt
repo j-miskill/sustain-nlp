@@ -1,1 +1,3 @@
-Placeholder to keep the folder structure, put esg datasets here
+Placeholder to keep the folder structure, download the esg media datasets 
+from https://www.kaggle.com/datasets/equintel/dax-esg-media-dataset and
+extract them to here
