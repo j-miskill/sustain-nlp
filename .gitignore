@@ -163,3 +163,6 @@ cython_debug/
 
 dax_esg_media_dataset/esg_documents_for_dax_companies.csv
 dax_esg_media_dataset/sdg_descriptions_with_targetsText.csv
+
+# another virtual environment
+venv-3.11
