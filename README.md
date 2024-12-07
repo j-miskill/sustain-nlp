@@ -11,4 +11,14 @@ Independent companies in the United States play a huge role in helping mitigate 
 
 ### Data sources
 
-We are using a S&P Global rating system for ratings on companies. 
+We are using a S&P Global rating system for ratings on companies.
+
+### Set up
+
+Use a Pythonic virtual environment like normal. However, the environment needs to be 3.11, because of some deprecated modules in 3.12 that are required for Tensorflow. Thus, run the following code for set up:
+
+```
+python3.11 -m venv venv-3.11
+source venv-3.11/bin/activate
+pip install -r requirements.txt
+```
